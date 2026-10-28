@@ -232,7 +232,12 @@ else:
 ```
 <H3>output:</H3>
 
-<img width="638" height="831" alt="image" src="https://github.com/user-attachments/assets/9cb84cb2-1a26-45cb-95ed-d1ebe49f5b2c" />
+<img width="632" height="471" alt="image" src="https://github.com/user-attachments/assets/1dceafd4-7669-4601-94dc-92e724b6d48a" />
+
+<img width="736" height="590" alt="image" src="https://github.com/user-attachments/assets/9012a87c-1a0f-47ac-9651-7d14426d9758" />
+
+<img width="808" height="480" alt="image" src="https://github.com/user-attachments/assets/cd00707e-2329-4973-9510-e5e441e32503" />
+
 
 <hr>
 <h3>Result:</h3>
